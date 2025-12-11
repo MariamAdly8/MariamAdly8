@@ -67,8 +67,8 @@ The system is built to be **scalable, maintainable, and easy to extend**, making
 
 ## 📫 Contact Me
 
-- **LinkedIn:** *Add your link here*  
-- **Email:** *Add your email here*  
+- **LinkedIn:** *https://www.linkedin.com/in/mariam--adly/*  
+- **Email:** *mariamadly633@gmail.com*  
 
 ---
 
