@@ -54,7 +54,7 @@ I’m continuously learning, improving my craft, and exploring new tools to buil
 **Tech Stack:** Node.js · Express.js · MongoDB
 
 Sizzle Share is a full-featured **recipe sharing platform** that allows users to create, browse, and manage their favorite recipes.  
-I developed the **entire backend architecture**, focusing on:
+I developed in backend architecture, focusing on:
 
 - Building RESTful APIs for recipe CRUD operations  
 - Designing a clean and efficient MongoDB schema  
