@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mariam
 
-I'm a **Computer Science graduate** and **ITI 9-Month Web & UI Development trainee** with a passion for building performant, user-focused web applications.  
-I specialize in **backend development**, API design, databases, and creating clean, scalable architectures.  
-My experience spans full-stack development, UI design, and solving real-world problems with modern technologies.
+I'm a Computer Science graduate and ITI 9-Month Web & UI Development trainee, working as a Full Stack MERN Developer.
+I build scalable web applications using MongoDB, Express.js, React, and Node.js, with a strong focus on backend development, API design, and database architecture.
 
-I’m continuously learning, improving my craft, and exploring new tools to build meaningful digital solutions.
+I have hands-on experience across the full stack, from designing RESTful APIs and authentication systems to building responsive user interfaces.
+I'm passionate about writing clean, maintainable code and solving real-world problems using modern web technologies
 
 ---
 
