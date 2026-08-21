@@ -128,28 +128,6 @@ I was responsible for developing and integrating both sides of the application:
 🔗 **Repository:**
 [NextEvent — GitHub](https://github.com/MariamAdly8/NextEvent)
 
----
-
-# 🍳 Other Featured Project
-
-## Sizzle Share — Recipe Sharing Platform
-
-**Sizzle Share** is a recipe-sharing platform that allows users to create, discover, and manage recipes.
-
-I worked primarily on the **backend development**, focusing on building a structured RESTful API and designing the database architecture.
-
-### Key Contributions
-
-* Developed RESTful APIs for recipe management
-* Implemented CRUD operations
-* Designed MongoDB schemas using Mongoose
-* Implemented user authentication and validation
-* Built the communication layer between the frontend and backend
-* Focused on maintainable backend architecture and scalable API design
-
-### 🛠️ Tech Stack
-
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
 
 ---
 
