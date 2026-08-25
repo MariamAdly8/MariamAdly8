@@ -127,7 +127,7 @@ I was responsible for developing and integrating both sides of the application:
 
 🔗 **Repository:**
 [NextEvent — GitHub](https://github.com/MariamAdly8/NextEvent)
-
+**Live Demo:** [https://nextevent-1.onrender.com/]
 
 ---
 
