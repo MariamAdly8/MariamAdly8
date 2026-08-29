@@ -66,68 +66,63 @@ I'm passionate about writing **clean, maintainable code**, solving real-world pr
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 ## 🎟️ NextEvent — Full Stack Event Management Platform
 
-**NextEvent** is a full-stack event management platform that allows users to discover, create, and register for events through a secure and responsive web application.
+A full-stack event management platform for discovering, creating, and registering for events.
 
-I developed **both the frontend and backend**, building the application from the user interface all the way to the RESTful API and database layer.
+**My Role — Full Stack Developer**
 
-### 🧩 My Role
-
-**Full Stack Developer**
-
-I was responsible for developing and integrating both sides of the application:
-
-* Designed and developed the frontend using **React 19**
-* Built reusable and responsive UI components
-* Managed application state using **Redux Toolkit**
-* Developed the backend using **Node.js & Express.js**
-* Designed RESTful APIs for authentication, events, users, and tickets
+* Developed the frontend using **React 19, Redux Toolkit, React Router, and React Bootstrap**
+* Built RESTful APIs using **Node.js & Express.js**
 * Designed and managed the **MongoDB database** using Mongoose
-* Implemented secure authentication using **JWT Access & Refresh Tokens**
-* Implemented **Role-Based Access Control** for Users and Admins
-* Integrated **Cloudinary** for image management
-* Implemented QR code generation for event tickets
-* Added event search, filtering, pagination, and capacity management
-* Integrated interactive maps using **React Leaflet / OpenStreetMap**
-* Connected the React frontend with the backend through REST APIs
+* Implemented **JWT authentication, Access & Refresh Tokens, and Role-Based Access Control**
+* Integrated **Cloudinary** for image uploads and **React Leaflet/OpenStreetMap** for event locations
+* Implemented **QR code tickets, search, filtering, pagination, and event capacity management**
 
-### ✨ Key Features
+**Tech Stack:**
+`React 19` · `Redux Toolkit` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Cloudinary` · `Axios` · `React Leaflet`
 
-* 🔐 Secure authentication with JWT
-* 🔄 Access & Refresh Token authentication
-* 🛡️ Role-Based Access Control
-* 📅 Event creation and management
-* 🎟️ Event registration and ticket management
-* 📱 Responsive user interface
-* 🔳 QR code ticket generation
-* 🗺️ Interactive event location maps
-* 🔍 Search and filtering
-* 📄 Pagination
-* 👤 User profiles and ticket management
-* 📊 Admin dashboard
-* 🖼️ Cloudinary image uploads
-* ⚡ Event capacity management
+🔗 **Repository:** [NextEvent — GitHub](https://github.com/MariamAdly8/NextEvent)
+🌐 **Live Demo:** https://nextevent-1.onrender.com/
 
-### 🛠️ Tech Stack
+---
 
-**Frontend**
+## 🤖 NomoAI — AI-Powered Speech Therapy Platform
 
-`React 19` · `Redux Toolkit` · `React Router` · `React Bootstrap` · `Axios` · `React Leaflet`
+An AI-powered Arabic speech therapy platform developed as my **ITI Graduation Project**, designed to support children through interactive speech therapy sessions and progress tracking.
 
-**Backend**
+**My Role — Frontend Developer**
 
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `bcrypt`
+* Developed the frontend using **React.js**
+* Built responsive and reusable UI components
+* Integrated the frontend with backend services and APIs
+* Implemented interactive user interfaces for the platform
 
-**Other Technologies**
+**Tech Stack:**
+`React.js` · `JavaScript` · `REST APIs`
 
-`Cloudinary` · `Multer` · `QR Code` · `OpenStreetMap`
+🌐 **Live Demo:** https://nomo-ai-front-end.vercel.app/
 
-🔗 **Repository:**
-[NextEvent — GitHub](https://github.com/MariamAdly8/NextEvent)
-**Live Demo:** [https://nextevent-1.onrender.com/]
+---
+
+## 🍳 SizzleShare — Recipe Sharing Application
+
+A mobile recipe-sharing application developed as my **Bachelor's Graduation Project**.
+
+**My Role — Backend Developer**
+
+* Developed the backend using **Node.js & Express.js**
+* Designed and managed the **MongoDB database** using Mongoose
+* Built and integrated **RESTful APIs**
+* Implemented authentication and backend business logic
+* Integrated **Cloudinary** for image storage and management
+
+**Tech Stack:**
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `REST APIs` · `Cloudinary`
+
+🔗 **Repository:** [SizzleShare — GitHub](https://github.com/MariamAdly8/SizzleShare)
 
 ---
 
