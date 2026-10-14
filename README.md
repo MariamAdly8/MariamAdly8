@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mariam Adly
 
-### Full Stack MERN Developer | Computer Science Graduate | ITI Graduate
+### Full Stack Developer | Computer Science Graduate | ITI Graduate
 
 I'm a **Computer Science graduate** and **ITI 9-Month Web & UI Development graduate** with a strong interest in building modern, scalable, and maintainable web applications.
 
-I specialize in **Full Stack JavaScript development**, with hands-on experience in both **Frontend development using React.js** and **Backend development using Node.js & Express.js**.
+I specialize in **Full Stack JavaScript development**, with experience in **Frontend development using React.js and Angular** and **Backend development using Node.js & Express.js**.
 
 I enjoy building applications from end to end — from designing responsive user interfaces and reusable components to developing RESTful APIs, authentication systems, database architectures, and secure backend services.
 
@@ -28,6 +28,7 @@ I'm passionate about writing **clean, maintainable code**, solving real-world pr
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -74,18 +75,39 @@ A full-stack event management platform for discovering, creating, and registerin
 
 **My Role — Full Stack Developer**
 
-* Developed the frontend using **React 19, Redux Toolkit, React Router, and React Bootstrap**
-* Built RESTful APIs using **Node.js & Express.js**
-* Designed and managed the **MongoDB database** using Mongoose
-* Implemented **JWT authentication, Access & Refresh Tokens, and Role-Based Access Control**
-* Integrated **Cloudinary** for image uploads and **React Leaflet/OpenStreetMap** for event locations
-* Implemented **QR code tickets, search, filtering, pagination, and event capacity management**
+- Developed the frontend using **React 19, Redux Toolkit, React Router, and React Bootstrap**
+- Built RESTful APIs using **Node.js & Express.js**
+- Designed and managed the **MongoDB database** using Mongoose
+- Implemented **JWT authentication, Access & Refresh Tokens, and Role-Based Access Control**
+- Integrated **Cloudinary** for image uploads and **React Leaflet/OpenStreetMap** for event locations
+- Implemented **QR code tickets, search, filtering, pagination, and event capacity management**
 
 **Tech Stack:**
+
 `React 19` · `Redux Toolkit` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `Cloudinary` · `Axios` · `React Leaflet`
 
 🔗 **Repository:** [NextEvent — GitHub](https://github.com/MariamAdly8/NextEvent)
-🌐 **Live Demo:** https://nextevent-1.onrender.com/
+
+🌐 **Live Demo:** [NextEvent](https://nextevent-1.onrender.com/)
+
+---
+
+## 🎓 EduPlatform — Learning Management Platform
+
+An educational platform developed using **Angular 18 and TypeScript**, featuring authentication, course-related functionality, and user-related features.
+
+**My Role — Frontend Developer**
+
+- Developed the frontend using **Angular 18 and TypeScript**
+- Integrated the frontend with **RESTful APIs** to support authentication, courses, and user-related features
+- Built reusable components following **component-based architecture and Angular best practices**
+- Collaborated with the backend team using **Git** for version control and development workflow
+
+**Tech Stack:**
+
+`Angular 18` · `TypeScript` · `REST APIs` · `HTML` · `CSS` · `Bootstrap`
+
+🔗 **Repository:** [EduPlatform — GitHub](https://github.com/Badawy403/Angular-Project)
 
 ---
 
@@ -95,15 +117,16 @@ An AI-powered Arabic speech therapy platform developed as my **ITI Graduation Pr
 
 **My Role — Frontend Developer**
 
-* Developed the frontend using **React.js**
-* Built responsive and reusable UI components
-* Integrated the frontend with backend services and APIs
-* Implemented interactive user interfaces for the platform
+- Developed the frontend using **React.js**
+- Built responsive and reusable UI components
+- Integrated the frontend with backend services and APIs
+- Implemented interactive user interfaces for the platform
 
 **Tech Stack:**
+
 `React.js` · `JavaScript` · `REST APIs`
 
-🌐 **Live Demo:** https://nomo-ai-front-end.vercel.app/
+🌐 **Live Demo:** [NomoAI](https://nomo-ai-front-end.vercel.app/)
 
 ---
 
@@ -113,13 +136,14 @@ A mobile recipe-sharing application developed as my **Bachelor's Graduation Proj
 
 **My Role — Backend Developer**
 
-* Developed the backend using **Node.js & Express.js**
-* Designed and managed the **MongoDB database** using Mongoose
-* Built and integrated **RESTful APIs**
-* Implemented authentication and backend business logic
-* Integrated **Cloudinary** for image storage and management
+- Developed the backend using **Node.js & Express.js**
+- Designed and managed the **MongoDB database** using Mongoose
+- Built and integrated **RESTful APIs**
+- Implemented authentication and backend business logic
+- Integrated **Cloudinary** for image storage and management
 
 **Tech Stack:**
+
 `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `REST APIs` · `Cloudinary`
 
 🔗 **Repository:** [SizzleShare — GitHub](https://github.com/MariamAdly8/SizzleShare)
@@ -131,24 +155,26 @@ A mobile recipe-sharing application developed as my **Bachelor's Graduation Proj
 ### 🎓 Information Technology Institute (ITI)
 
 **9-Month Professional Diploma — Web & UI Development**
+
 2025 – 2026
 
 ### 🎓 Assiut University
 
 **Bachelor's Degree in Computer Science**
+
 2025
 
 ---
 
 # 💡 What I Enjoy Building
 
-* Full Stack Web Applications
-* RESTful APIs
-* Authentication & Authorization Systems
-* Database-Driven Applications
-* Responsive User Interfaces
-* Scalable Backend Architectures
-* Real-World Business Solutions
+- Full Stack Web Applications
+- RESTful APIs
+- Authentication & Authorization Systems
+- Database-Driven Applications
+- Responsive User Interfaces
+- Scalable Backend Architectures
+- Real-World Business Solutions
 
 ---
 
